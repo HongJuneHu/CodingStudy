@@ -1,0 +1,5 @@
+a = int(input())
+b = input().split()
+b = list(map(int, b))
+b.sort()
+print(int(b[0]) * int(b[len(b)-1]))
