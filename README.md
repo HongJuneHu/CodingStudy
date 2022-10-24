@@ -1,5 +1,2 @@
 # CodingStudy
-# Start 2022-09-01 +3
-# 2022-09-02 +5
-# 2022-09-03 +16
-# 2022-09-04 +76
+# Studying coding algorithm easy to hard
